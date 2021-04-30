@@ -1,4 +1,4 @@
-# Lending-club-dataset
+# Explorartory Data Analysis with Lending club dataset
 
 ## Assessing the likelihood of paying back the loan for a peer-to-peer Lending company
 
